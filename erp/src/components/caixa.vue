@@ -65,7 +65,7 @@ export default {
    
 
     .container{
-        background-color: rgb(221, 218, 218);
+        background-color: white;
         border-radius: 10px;
     }
 </style>
